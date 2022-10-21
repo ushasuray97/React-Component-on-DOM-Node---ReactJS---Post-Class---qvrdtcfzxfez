@@ -1,3 +1,4 @@
+import {div} from "./index.js";
 function App(){
 ReactDOM.render(
   <React.StrictMode>
