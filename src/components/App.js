@@ -6,10 +6,8 @@ ReactDOM.render(
  
   document.getElementById('root')
 );
-  
-}
-export default function App(){
   return  <React.Fragment>
       <index/>
   </React.Fragment>
-};
+}
+export default  App;
